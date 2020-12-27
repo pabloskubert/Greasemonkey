@@ -1,0 +1,15 @@
+{
+  "name": "csv-server",
+  "version": "1.0.0",
+  "description": "Csv server to be used within user-script phpmyadmin-export",
+  "main": "csv-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pablo Skubert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
